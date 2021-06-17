@@ -1,5 +1,5 @@
 - I’m @CloudGentleman
-- Reach me with E-mail 706327600@qq.com
+- Reach me with E-mail: 706327600@qq.com
 
 <!---
 CloudGentleman/CloudGentleman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
